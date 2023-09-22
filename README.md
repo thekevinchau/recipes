@@ -1,4 +1,4 @@
 # recipes
 An adaptation of The Odin Project's recipe project.
 
-I hope to have applied more knowledge of HTML that I learned from Odin's course.
+After finishing this mini-project, I've learned how to create an HTML boilerplate, upload images with attributes, and creating basic lists and paragraphs for a recipe page.
